@@ -1,0 +1,19 @@
+h1{
+    color:#2296C7;
+    text-decoration-color: aquamarine;
+    text-align: center;
+}
+
+h2{
+    border-color: aqua;
+    text-align: Helvetica, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    font-family: helvetica, sans-serif;
+}
+th{
+    font-weight: 600;
+    background-color: #2695A6;
+    color: aquamarine;
+}
